@@ -1,3 +1,3 @@
 # Payroll
 
-**Web app to calculate Payroll using Php and sqlite**
+**Web app to calculate Payroll using PHP and Mysql**
